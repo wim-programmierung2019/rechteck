@@ -19,7 +19,7 @@ public class Rechteck {
     
     public void setLaenge(int neueLaenge){
         laenge = neueLaenge;
-        laeche = laenge * breite;
+        flaeche = laenge * breite;
     }
     
     public int flaeche(){
